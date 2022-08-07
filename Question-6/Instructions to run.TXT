@@ -1,0 +1,7 @@
+Only two files are necessary.
+
+The html file is stored in:
+web->index.html
+
+The Servlet file is stored in:
+src->java->ITDetails.java
